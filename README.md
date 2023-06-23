@@ -22,3 +22,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=b4rness&show_icons=true&locale=en&layout=compact" alt="b4rness" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4rness&" alt="b4rness" /></p>
+
+![snake gif](https://github.com/b4rness/b4rness/blob/output/github-contribution-grid-snake.gif)
